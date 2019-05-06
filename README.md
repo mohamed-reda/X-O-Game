@@ -3,4 +3,4 @@ Simple Connect3 game and the winner who will connect them first Otherwise the ga
 
 
 
-<img src="https://user-images.githubusercontent.com/15935347/54573062-47ae5a00-49f3-11e9-9913-16bfa72612bd.jpg"  width="350" height="450" />
+<img src="https://user-images.githubusercontent.com/15935347/54573062-47ae5a00-49f3-11e9-9913-16bfa72612bd.jpg"  width="320" height="500" />
